@@ -1,0 +1,17 @@
+(0,0)
+*(0,0)
+(1,2)rightStarter
+(3,2)rightArrow
+(3,12)upArrow
+(6,2)downArrow
+(6,6)spawner
+(6,7)downArrow
+(6,12)leftArrow
+(7,6)rightArrow
+(8,6)rightPusher
+(9,6)rightArrow
+(10,6)rightArrow
+(11,6)rightArrow
+(12,6)spawner
+(13,6)spawner
+(14,6)spawner
