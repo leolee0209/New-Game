@@ -3,7 +3,7 @@ Basically, you put a lot of "components" on the map and press Enter, then all of
 The fun part is how the components are so simple that they can't really do much, but once they are pieced together in a well thought out way, they can do amazing things, and sky is the limit.\
 The goal is to create complex behaviors and systems by combining these basic elements.\
 
-enter:start
-delete:delete component
-h:hide component menu
+enter:start\
+delete:delete component\
+h:hide component menu\
 esc:menu
